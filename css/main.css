@@ -193,12 +193,12 @@ input, select, textarea {
 		}
 
 		@font-face {
-			font-family: Over-Break;
-			src: url(https://bringfeel.com.ar/assets/css/Over-Break.ttf);
-		  }
+font-family: FSEX302;
+    src: url(https://bringfeel.com.ar/assets/css/FSEX302.ttf)
+}
 		  
 		  h1 {
-			font-family: Over-Break;
+			font-family: FSEX302;
 			text-align: center;
 			position: relative;
 			font-size: 10%;
